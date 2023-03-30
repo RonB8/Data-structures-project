@@ -1,2 +1,8 @@
 # Data-structures-project
-The project analyzes a comparison between 2 types of sorting: quick sorting and stack sorting A pdf document is attached that explains the reasons for the differences between the efficiency of the 2 different algorithms, and why different results can be obtained for different inputs.
+
+The main file - SortComparison
+Help files for main: HeapsMethods, Methods, MinHeap and QuickSortMethods
+File analysis and comparison between the 2 algorithms: Performance comparison and analysis
+
+Description:
+The project was done as part of the course "Data Structure and Introduction to Algorithms" in the degree, and its purpose is to compare 2 types of sorting: quick sorting and heap sorting. Attached is a pdf document explaining the reasons for the differences between the efficiency of the 2 different algorithms, and why you can get different results for different inputs.
